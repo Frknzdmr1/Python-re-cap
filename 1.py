@@ -44,4 +44,16 @@
    # (in) and (not in)  
 
 
-    
+# Check if number or not 
+
+
+# a = input("enter a number")
+# while not a.isdigit():
+#     a= input("please enter a valid number")
+# print(int(a)) 
+
+# a = 22
+# if a.isdigit():
+#     print(int(a))
+# else:
+#     print('not a number')
